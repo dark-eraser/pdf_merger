@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from selenium import webdriver
+
 import os.path
 from PyPDF2 import PdfFileWriter, PdfFileReader
 from argparse import ArgumentParser
